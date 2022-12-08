@@ -1,5 +1,3 @@
-# BIOL-111
-
 
 ### Final Exam Information
 
@@ -522,25 +520,153 @@ Remember this is essay format so in paragraph format with a title, introduction,
 	- term used to refer to the rapid growth of the human population, which has been a major concern in recent decades. 
 	- It is often associated with the potential dangers of overpopulation, and with the need for urgent action to address the issue.
 2.  Describe growth rates of the human population, and explain the impact of migration, improved health, and technology on human population dynamics.
-3.  List the stages of the demographic transition  model
+	- The growth rate of the human population has varied over time and across different regions of the world. 
+	- Overall, the global population has been growing at a rapid rate, and it is currently increasing by about 83 million people per year. However, the rate of growth has been slowing in recent years, and it is expected to continue to slow in the future.
+	- There are several factors that can impact the growth rate of the human population. 
+		- One of these factors is migration, which refers to the movement of people from one region to another. 
+		- Migration can affect the growth rate of the population in a particular region by either increasing or decreasing the number of people living there.
+	- Improved health is another factor that can impact the growth rate of the population. 
+		- When people have access to good health care and live in healthy environments, they are more likely to live longer and have more children. This can lead to an increase in the population growth rate.
+	- Technology is also a factor that can impact the growth rate of the population. 
+		- Advances in technology can make it easier for people to have access to food, clean water, and other resources, which can support population growth. However, technology can also be used to improve health care and reduce the impact of diseases, which can slow the growth rate of the population.
+3.  List the stages of the demographic transition model
+	1.  *Stage 1: Pre-industrial society.* 
+		- In this stage, the population is relatively small and is characterized by high birth rates and high death rates. 
+		- The population is in equilibrium, meaning that the number of births and deaths is roughly equal, and the population size remains stable.
+	2.  *Stage 2: Early industrial society.*
+		- In this stage, the population begins to grow rapidly as birth rates remain high and death rates start to decline. This is often due to improvements in healthcare and sanitation, which reduce the impact of disease. 
+		- The population becomes larger and is no longer in equilibrium, as the number of births is greater than the number of deaths.
+	3.  *Stage 3: Late industrial society.* 
+		- In this stage, the population continues to grow, but at a slower rate. This is due to a decline in birth rates, which is often a result of changes in social and economic conditions. 
+		- Women may have fewer children because they are pursuing education and careers, and because they have access to birth control. The population is still growing, but the rate of growth slows down.
+	4.  *Stage 4: Post-industrial society.*
+		- In this stage, the population reaches a new equilibrium, with low birth rates and low death rates. 
+		- The population may continue to grow, but at a very slow rate, and may even start to decline. This is often due to changes in social and economic conditions, as well as improvements in healthcare and technology. 
 4.  Describe the demographic transition model.
-5.  Describe human population growth rate patterns as they vary in different countries and regions around the world.
+	- The demographic transition model is a theoretical model that describes how the population of a country or region changes over time. 
+	- The model is based on the observation that as societies develop, their population size and growth rate typically change in predictable ways.
+5. Describe human population growth rate patterns as they vary in different countries and regions around the world.
+	- The human population growth rate varies among different countries and regions around the world. 
+	- In general, the population growth rate is higher in developing countries compared to developed countries. 
+		- This is because developing countries tend to have higher birth rates and lower death rates.
+		- In developed countries, the population growth rate is often low or negative due to factors such as low fertility rates and aging populations.
 6.  Describe the impact of population control on human populations in specific countries or regions of the world.
-7.  Describe the impact of human population growth on ecosystems
+	- Population control measures aim to regulate the growth of the human population in order to reduce the strain on natural resources and the environment. 
+	- These measures can include a variety of policies and programs, such as promoting family planning and access to birth control, providing education and incentives for small families, and implementing measures to reduce mortality rates.
+7. Describe the impact of human population growth on ecosystems
+	- One of the main ways in which human population growth affects ecosystems is through the process of urbanization. As more people move into urban areas, natural habitats are often converted into urban landscapes, leading to the loss of biodiversity and the disruption of natural processes. In addition, the growth of cities can also lead to air and water pollution, which can have negative impacts on the health of ecosystems and the species that depend on them.
+	- Another way in which human population growth can affect ecosystems is through the overuse of resources. As human populations grow, the demand for food, water, and other resources increases, leading to the overuse of these resources. This can lead to the depletion of natural resources, such as freshwater aquifers and forests, and can also lead to soil erosion and other forms of environmental degradation.
 8.  Define ecological footprint, carbon footprint and biocapacity
+	- *Ecological footprint:* 
+		- measure of the impact that human activities have on the environment. It is calculated by estimating the amount of land and water required to produce the resources that a person or population consumes, and to absorb the waste that is generated by those activities. 
+		- The ecological footprint can be used to compare the sustainability of different activities, and to determine whether or not a particular lifestyle or population is using resources at a rate that can be sustained over time.
+	- *Carbon footprint:* 
+		- measure of the greenhouse gas emissions that are produced by a person, organization, or activity. 
+		- It is calculated by estimating the amount of carbon dioxide and other greenhouse gases that are emitted through the use of fossil fuels, such as coal, oil, and natural gas. 
+		- The carbon footprint is often used as a measure of the environmental impact of different activities, and as a way to compare the sustainability of different products and services.
+	- *Biocapacity:*
+		- measure of the ability of an ecosystem to produce renewable resources and to absorb waste. 
+		- It is calculated by estimating the amount of land and water available for production, and the ability of that land and water to regenerate resources and absorb waste. 
+		- Biocapacity is often used as a measure of the sustainability of a particular ecosystem, and as a way to compare the sustainability of different regions or countries.
 9.  List what the ecological footprint measures on the demand side
-10.  List the ecological assets that contribute to the ecological footprint on the supply side
+	- The ecological footprint measures the demand for natural resources on the demand side. 
+	- This includes the amount of land and water required to produce the food, shelter, and other goods and services that a person or population consumes. 
+	- It also includes the amount of land and water required to absorb the waste that is generated by those activities. 
+	- In this way, the ecological footprint provides a measure of the impact that human activities have on the environment, and can be used to compare the sustainability of different lifestyles or populations.
+10. List the ecological assets that contribute to the ecological footprint on the supply side
+	- *Arable land:* 
+		- This is the land that is suitable for growing crops and raising livestock. 
+		- The availability of arable land is a key factor in determining the ability of a region to produce food and other resources.
+	- *Forest land:* 
+		- Forests provide a range of ecological services, including the production of timber and other forest products, the regulation of water flow and air quality, and the support of biodiversity. 
+		- The availability of forest land is a key factor in determining the ecological footprint of a region.
+	- *Water resources:* 
+	    - Freshwater is a vital resource for human activities, including the production of food, the generation of energy, and the provision of drinking water. 
+	    - The availability of water resources is a key factor in determining the ecological footprint of a region.
+	- *Mineral resources:* 
+		- Many human activities, such as the production of steel and other metals, rely on the availability of mineral resources. 
+		- The availability of mineral resources is a key factor in determining the ecological footprint of a region.
 11.  Distinguish between an ecological deficit and an ecological reserve
-12.  Define Earth Overshoot Day and what can be done to change it
-13.  Distinguish between the ecological footprints of consumption, production and trade
+	- *Ecological deficit:*
+		- occurs when the demand for natural resources exceeds the supply of those resources within a particular region. 
+		- This means that the region is consuming more resources than it is able to produce, and must import resources from other regions in order to meet its needs. 
+		- An ecological deficit can have negative impacts on the environment, such as deforestation and habitat loss, and can also lead to conflicts over the use of resources.
+	- *Ecological reserve:*
+		- occurs when the supply of natural resources within a region exceeds the demand for those resources. 
+		- This means that the region has more resources available than it needs, and can export excess resources to other regions. 
+		- An ecological reserve can provide a buffer against the impacts of resource depletion, and can also support the sustainable use of natural resources.
+12. Define Earth Overshoot Day and what can be done to change it
+	- Earth Overshoot Day is the date on which humanity's demand for ecological resources and services exceeds what the Earth can renew in that year. In other words, it is the point at which we are using more resources than the planet can sustainably provide. 
+	- Earth Overshoot Day is calculated by the Global Footprint Network, and has been observed on a later date each year since the 1970s.
+	- There are several things that can be done to change the date of Earth Overshoot Day and reduce humanity's ecological footprint. Some of the key actions that can be taken include:
+		-  Reducing the use of fossil fuels and transitioning to renewable energy sources. This can help to reduce greenhouse gas emissions and slow down climate change.
+		- Improving the efficiency of resource use. By using resources more efficiently, we can reduce the amount of land and water required to produce the goods and services that we consume.
+		- Reducing waste and promoting the circular economy. By reducing the amount of waste that is produced and increasing the reuse and recycling of materials, we can reduce the demand for new resources.
+		- Protecting and restoring natural habitats. By protecting and restoring natural habitats, we can support the regeneration of natural resources and improve the ability of the environment to absorb waste.
+13. Distinguish between the ecological footprints of consumption, production and trade
+	- The ecological footprint is a measure of the impact of human activities on the environment. 
+	- The ecological footprint of consumption refers to the impact of the goods and services that a person or population consumes. 
+		- This includes the resources that are used to produce the goods and services, as well as the waste that is generated during their production and consumption. 
+		- The ecological footprint of consumption is determined by the quantity and type of goods and services that are consumed, as well as the resources and waste associated with those activities.
+	- The ecological footprint of production refers to the impact of the goods and services that are produced within a particular region. 
+		- This includes the resources that are used to produce the goods and services, as well as the waste that is generated during their production. 
+		- The ecological footprint of production is determined by the quantity and type of goods and services that are produced, as well as the resources and waste associated with those activities.
+	- The ecological footprint of trade refers to the impact of the goods and services that are imported and exported between different regions. 
+		- This includes the resources that are used to produce the goods and services, as well as the waste that is generated during their production and transportation. 
+		- The ecological footprint of trade is determined by the quantity and type of goods and services that are traded, as well as the resources and waste associated with those activities.
 
 **Week 10**:
 1.  Define G1, S phase, G2, and G0, centromeres and sister chromatids.
+	- The cell cycle is divided into several phases, including G1, S, G2, and G0.
+		- *G1 is the first gap phase:*
+			- cell grows and performs its normal functions.
+			- prepares to divide
+		- *S phase, or synthesis phase:*
+			- cell's DNA is replicated.
+		- *G2 is the second gap phase:*
+			- during which the cell prepares for mitosis.
+		- G0 is a stage in which the cell is no longer dividing and has entered a quiescent/inactivity state.
+	- Centromeres are specialized structures that hold sister chromatids together during cell division. 
+		- ![[Pasted image 20221207195547.png]]
+	- Sister chromatids are two copies of a replicated chromosome that are joined together at the centromere.
+		- ![[Pasted image 20221207195645.png]]
 2.  List the phases of mitosis.
+	- The phases of mitosis are:
+		- *Prophase:*
+			- During prophase, the chromosomes in the nucleus of the cell become visible and the nuclear envelope begins to break down. 
+		- *Metaphase:*
+			- In metaphase, the chromosomes line up in the center of the cell.
+		- *Anaphase:*
+			-  In anaphase, the chromosomes are pulled to opposite poles of the cell.
+		- *Telophase:*
+			- Finally, in telophase, a new nuclear envelope forms around the chromosomes at each pole and the cell begins to divide into two daughter cells.
 3.  Describe the role of checkpoints in the cell cycle.
+	- Cell cycle checkpoints are regulatory mechanisms that help ensure the integrity of the cell cycle.
+	- They allow the cell to pause and assess its progress before moving on to the next phase of the cell cycle.
+	- This helps ensure that all necessary conditions are met before the cell continues to divide.
+	- For example, a checkpoint might ensure that the chromosomes are properly replicated and aligned before moving on to anaphase. If any errors or problems are detected, the cell can halt the cell cycle until the issue is resolved. 
+	- This helps prevent the formation of abnormal cells, which can lead to disease or other problems.
 4.  List the various checkpoints and each of their particular roles.
+	- The G1 checkpoint, also known as the restriction point, is the point at which the cell decides whether to enter the next phase of the cell cycle or remain in G1. 
+	- The G2 checkpoint occurs just before the cell enters mitosis, and is responsible for ensuring that the cell is ready to undergo cell division. 
+	- The metaphase checkpoint is a critical point in mitosis, and is responsible for ensuring that the chromosomes are properly aligned in the center of the cell before moving on to anaphase. 
+	- Finally, the anaphase checkpoint helps ensure that the cell is ready to separate the chromosomes and begin cytokinesis, the process of dividing the cell into two daughter cells.
 5.  Define the following: cancer, tumour, neoplasm, benign tumour, malignant tumour, carcinoma, sarcoma, leukemia and lymphoma.
+	- Cancer is a general term that refers to a group of diseases in which abnormal cells divide and grow in an uncontrolled way. 
+	- A tumor is an abnormal growth of cells that can occur in any part of the body. 
+	- A neoplasm is a general term for a tumor, whether it is benign or malignant.
+	- A benign tumor is a non-cancerous growth that does not spread to other parts of the body. 
+	- A malignant tumor, on the other hand, is cancerous and can spread to other parts of the body.
+	- Carcinoma is a type of cancer that begins in the cells that line the organs, such as the skin or the lining of the digestive tract. 
+	- Sarcoma is a type of cancer that arises from connective tissues, such as muscle or bone.
+	- Leukemia is a type of cancer that affects the blood and bone marrow. 
+	- Lymphoma is a type of cancer that affects the immune system, specifically the cells called lymphocytes.
 6.  Define and describe metastasis, proto-oncogene, oncogene, and tumour suppressor gene.
+	- Metastasis is the process by which cancer cells spread from the original site of the cancer to other parts of the body. This can happen through the blood or the lymphatic system. 
+	- Proto-oncogenes are genes that normally help cells grow and divide to make new cells, or to help cells stay alive.
+		- are genes that have the potential to become oncogenes.
+	- Oncogenes are genes (that were proto-oncogenes that were mutated) that have the ability to cause cancer.
+	- Tumour suppressor genes are genes that can suppress the development of cancer.
 
 **Week 11**:
 *Essential Outcomes*:
