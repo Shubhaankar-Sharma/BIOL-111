@@ -615,8 +615,8 @@ Remember this is essay format so in paragraph format with a title, introduction,
 		- This includes the resources that are used to produce the goods and services, as well as the waste that is generated during their production and transportation. 
 		- The ecological footprint of trade is determined by the quantity and type of goods and services that are traded, as well as the resources and waste associated with those activities.
 
-**Week 10**:
-1.  Define G1, S phase, G2, and G0, centromeres and sister chromatids.
+**Week 10 (on cheatsheet)**:
+1.  Define G1, S phase, G2, and `G0`, centromeres and sister chromatids.
 	- The cell cycle is divided into several phases, including G1, S, G2, and G0.
 		- *G1 is the first gap phase:*
 			- cell grows and performs its normal functions.
@@ -666,9 +666,9 @@ Remember this is essay format so in paragraph format with a title, introduction,
 	- Proto-oncogenes are genes that normally help cells grow and divide to make new cells, or to help cells stay alive.
 		- are genes that have the potential to become oncogenes.
 	- Oncogenes are genes (that were proto-oncogenes that were mutated) that have the ability to cause cancer.
-	- Tumour suppressor genes are genes that can suppress the development of cancer.
+	- Tumour suppressor genes are genes that can suppress the development of cancer by making proteins called a turmo supressor protein that helps control cell growth.
 
-**Week 11**:
+**Week 11 (on cheatsheet)**:
 *Essential Outcomes*:
 -   There are two physiological systems for intercellular communication that are structurally and functionally related. Although they control different types of activities, they must work together to ensure proper chemical communication and response.
 -   Glucose levels in the body are tightly controlled by two hormones, insulin and glucagon.
@@ -681,55 +681,240 @@ Remember this is essay format so in paragraph format with a title, introduction,
 -   There are more misconceptions about what is a good diet than perhaps of any other aspect of biology
 *Learning Objectives*:
 1.  Identify and explain the two physiological systems in animals that control chemical communication.
+	- The two physiological systems for intercellular communication are the nervous system and the endocrine system. 
+	- These two systems are related in that they both control the chemical signaling that occurs within the body, but they do so in different ways.
+		1. Nervous system is a network of cells, tissues, and organs that control and coordinate the body's responses to internal and external stimuli. 
+			- It is made up of neurons, which are specialized cells that transmit electrical impulses, and glial cells, which support and protect the neurons. 
+			- **The nervous system is responsible for rapid, short-term responses to stimuli, such as the reflexes that allow us to quickly withdraw our hand from a hot surface.**
+		2. The endocrine system, on the other hand, is a collection of glands that secrete hormones into the bloodstream. 
+			- Hormones are chemical messengers that are produced by the glands and travel through the bloodstream to target cells, where they bind to specific receptors and trigger a response. T
+			- **The endocrine system is responsible for slower, long-term responses to stimuli, such as the release of growth hormones that regulate growth and development.**
 2.  Compare and contrast hormonal control and neural control.
-3.  Define the following: hormones, target cells, receptor proteins, autocrine regulation, paracrine regulation, neuroendocrine regulation, neurohormones, endocrine gland, and exocrine gland.
-4.  Explain the major types of cell signaling in the hormonal and nervous systems.
-5.  Explain the reaction pathway of peptide hormones and compare it to that of steroid and fatty acid hormones, such as estrogen.
+	- Hormonal control involves the release of hormones into the bloodstream by glands in the endocrine system. 
+		- These hormones are chemical messengers that travel through the bloodstream to target cells, where they bind to specific receptors and trigger a response. 
+		- Hormonal control is slow and long-lasting, and it can affect many different parts of the body at once. 
+		- For example, the release of hormones from the thyroid gland can affect the body's metabolism, growth, and development.
+	- Neural control involves the transmission of electrical impulses along neurons in the nervous system. 
+		- These impulses are generated in response to stimuli and are transmitted through the network of neurons to other cells, where they can trigger a response. 
+		- Neural control is fast and short-term, and it is typically localized to a specific part of the body. 
+		- For example, when you touch a hot surface, neurons in your hand transmit an impulse to your spinal cord, which triggers a reflex that causes you to quickly withdraw your hand.
+3. Define the following: hormones, target cells, receptor proteins, autocrine regulation, paracrine regulation, neuroendocrine regulation, neurohormones, endocrine gland, and exocrine gland.
+	- Hormones are chemical messengers that are produced by glands in the endocrine system and are released into the bloodstream. 
+		- They travel to target cells, where they bind to specific receptors and trigger a response.
+	- Target cells are the cells in the body that are affected by hormones. 
+		- These cells have specific receptors for the hormones, and when the hormones bind to these receptors, they trigger a response.
+	- Receptor proteins are proteins found on the surface of target cells that bind to hormones. 
+		- When a hormone binds to its specific receptor protein, it triggers a response in the target cell.
+	- Autocrine regulation is a type of cell signaling in which a cell produces a hormone that then acts on the same cell. 
+		- This can help to regulate the function of the cell and maintain homeostasis.
+	- Paracrine regulation is a type of cell signaling in which a cell produces a hormone that then acts on nearby cells.
+		- This can help to coordinate the activities of cells in a specific area and maintain homeostasis.
+	- Neuroendocrine regulation is a type of cell signaling in which the nervous system and the endocrine system work together to control the body's responses to stimuli. 
+		- In this type of regulation, the nervous system may release hormones from endocrine glands in response to a stimulus, which then act on target cells to trigger a response.
+	- Neurohormones are hormones that are produced by neurons in the nervous system. 
+		- These hormones can act on target cells to regulate their function and help to coordinate the activities of the body.
+	- An endocrine gland is a gland in the endocrine system that produces hormones and releases them into the bloodstream.
+		- Examples of endocrine glands include the thyroid gland and the pancreas.
+	- An exocrine gland is a gland that produces a substance (such as sweat or saliva) and releases it into a duct that carries it to the surface of the body or to another organ.
+		- Examples of exocrine glands include sweat glands and salivary glands.
+4. Explain the major types of cell signaling in the hormonal and nervous systems.
+	- Autocrine signaling occurs when a cell produces a hormone that then acts on the same cell. This type of signaling helps to regulate the function of the cell and maintain homeostasis.
+	- Paracrine signaling occurs when a cell produces a hormone that then acts on nearby cells. This type of signaling helps to coordinate the activities of cells in a specific area and maintain homeostasis.
+	- Endocrine signaling occurs when a hormone is produced by a gland in the endocrine system and released into the bloodstream. The hormone then travels to target cells, where it binds to specific receptors and triggers a response. This type of signaling allows for long-range communication and coordination of the body's functions.
+	- In the nervous system, there are two major types of cell signaling: electrical signaling and chemical signaling.
+	- Electrical signaling occurs when an electrical impulse is generated by a neuron in response to a stimulus. The impulse is then transmitted along the axon of the neuron to other cells, where it can trigger a response. This type of signaling is fast and allows for rapid communication and coordination of the body's functions.
+	- Chemical signaling occurs when a chemical messenger (called a neurotransmitter) is released by a neuron in response to a stimulus. The neurotransmitter then binds to specific receptors on other cells, where it can trigger a response. This type of signaling is slower than electrical signaling but allows for more precise control of the body's functions.
+5. Explain the reaction pathway of peptide hormones and compare it to that of steroid and fatty acid hormones, such as estrogen.
+	- Peptide hormones are a type of hormone that is made up of chains of amino acids. 
+	- When a peptide hormone is released into the bloodstream, it travels to target cells, where it binds to specific receptors on the cell surface.
+		- This binding triggers a series of events inside the cell, known as the reaction pathway.
+	- *Reaction pathway*:
+				1. The first step in the reaction pathway of a peptide hormone is the activation of a specific enzyme, known as a G protein-coupled receptor. This enzyme is activated when the hormone binds to its receptor on the cell surface.
+				2. Next, the activated enzyme activates another enzyme inside the cell, known as adenylate cyclase. This enzyme converts ATP (the cell's energy source) into cyclic AMP (cAMP), which is a second messenger.
+				3. The cAMP then activates protein kinase A (PKA), which is an enzyme that can phosphorylate (add a phosphate group to) other proteins inside the cell. The phosphorylated proteins can then go on to trigger various cellular responses, such as the activation of other enzymes or the transcription of specific genes.
+	- *How is the reaction pathway of peptide hormones different than steroid and fatty acid hormones?*
+		- This reaction pathway is different from the reaction pathway of steroid and fatty acid hormones, such as estrogen. 
+		- Steroid and fatty acid hormones are lipid-soluble and can easily pass through the cell membrane. Once inside the cell, they bind to specific receptors in the cytoplasm or nucleus. This binding then triggers a series of events inside the cell, including the activation of specific genes and the synthesis of new proteins. These proteins can then go on to trigger various cellular responses, such as the activation of other enzymes or the modification of the cell's structure or function.
 6.  Describe how amplification works in hormonal activation after a hormone is bound to a receptor.
+	- check above ^
 7.  Describe how glucose levels are homeostatically controlled
+	- Glucose levels in the body are homeostatically controlled through a complex interplay of hormones, enzymes, and other mechanisms. 
+	- The main hormones involved in the regulation of glucose levels are insulin and glucagon, which are produced by the pancreas.
+	- When glucose levels in the blood are high, the pancreas releases insulin. 
+		- Insulin stimulates the uptake of glucose by cells, particularly by cells in the liver and muscles, where it can be stored as glycogen. 
+		- Insulin also stimulates the synthesis of glycogen and fatty acids, which helps to reduce the amount of glucose in the blood.
+	- When glucose levels in the blood are low, the pancreas releases glucagon. Glucagon stimulates the breakdown of glycogen in the liver, which releases glucose into the bloodstream. 
+		- This helps to raise glucose levels in the blood.
+	- In addition to these hormones, enzymes such as hexokinase and glucokinase also play a role in the homeostatic control of glucose levels. Hexokinase helps to convert glucose into glycogen, while glucokinase helps to convert glycogen back into glucose.
+	- Overall, the homeostatic control of glucose levels involves a complex interplay of hormones, enzymes, and other mechanisms. The release of insulin and glucagon by the pancreas, along with the actions of enzymes such as hexokinase and glucokinase, help to maintain glucose levels within a healthy range.
 8.  Explain the basis of diabetes
-9.  Define macronutrients, micronutrients, and essential nutrients.
+	- In people with diabetes, there is either a deficiency of insulin (as in type 1 diabetes) or a resistance to the effects of insulin (as in type 2 diabetes). This means that the body is unable to properly regulate blood sugar levels, leading to high levels of glucose in the blood (hyperglycemia).
+9. Define macronutrients, micronutrients, and essential nutrients.
+	- Macronutrients are the nutrients that the body needs in large amounts to function properly and maintain good health. These include carbohydrates, proteins, and fats.
+	- Micronutrients are nutrients that the body needs in small amounts to function properly and maintain good health. These include vitamins and minerals.
+	- Essential nutrients are nutrients that the body cannot produce on its own and must be obtained from the diet. These include both macronutrients and micronutrients.
 10.  Identify the three key nutrients that plants need, and explain what each is specifically used for.
+	- Nitrogen is used by plants to produce amino acids, which are the building blocks of proteins. It is also important for the synthesis of chlorophyll, which plants need in order to perform photosynthesis. Nitrogen is typically found in the soil in the form of nitrates and ammonium ions, and it is absorbed by plants through their roots.
+	- Phosphorus is another essential nutrient for plants. It is used by plants to produce ATP, which is the primary source of energy for the plant's cells. It is also involved in the synthesis of nucleic acids, which are essential for the plant's DNA and RNA. Phosphorus is typically found in the soil in the form of phosphate ions, and it is absorbed by plants through their roots.
+	- Potassium is a third key nutrient for plants. It is involved in many important plant processes, including photosynthesis, enzyme production, and the regulation of water uptake and water loss. Potassium is typically found in the soil in the form of potassium ions, and it is absorbed by plants through their roots.
 11.  Explain why animals must obtain both the organic and inorganic nutrients they need from their diet, whereas plants need to obtain only the inorganic nutrients they need
+	- Animals are unable to produce their own organic food.
+	- Plants are able to produce their own organic food via photosynthesis.
 12.  Describe how plants store energy, compare this to how animals store energy, and give reasons why they differ.
+	- Plants store energy in the form of starch, which is a complex carbohydrate that is produced during photosynthesis. When a plant undergoes photosynthesis, it uses energy from sunlight to convert carbon dioxide and water into glucose, which is a simple sugar. The plant then uses the glucose to produce starch, which is stored in the plant's cells as a long-term energy reserve.
+	- In contrast, animals store energy in the form of glycogen, which is a complex carbohydrate that is similar to starch. Unlike plants, animals do not produce their own food through photosynthesis. Instead, they obtain the glucose they need from their diet. When an animal consumes glucose, its body converts the glucose into glycogen, which is then stored in the animal's liver and muscles as a long-term energy reserve.
+	- The main difference between the way plants and animals store energy is that plants produce their own glucose through photosynthesis, whereas animals obtain glucose from their diet. As a result, plants are able to store large amounts of energy in the form of starch, whereas animals are limited in the amount of glycogen they can store in their liver and muscles.
 
-**Week 12**:
+**Week 12 (on cheatsheet)**:
 *Essential Outcomes*:
 -   Many diseases are caused by viruses, bacteria, fungi, protozoa, and worms.
 -   Understanding the biology of an agent of disease is crucial to understanding treatment.
 *Learning Objectives*:
 1.  Identify the main types of agents that cause disease.
+	- Viruses, bacteria, fungi, protozoa, worms
 2.  Explain what a disease vector is. Give examples.
 3.  Define the four main types of transmission cycles for infectious diseases and explain one example of each.
 4.  Identify the transmission category of SARS CoV-2.  Explain how zoonosis applies to this viruses.
+	- SARS CoV-2 is anthroponoses (direct transmission)
+	- SARS CoV-2 had a zoonotic origin (disease carried from animal to animal)
 5.  Predict how climate change could impact distribution patterns of three infectious diseases of your choice. Explain.
+	1.  *Malaria:* Climate change could potentially increase the distribution of malaria, as warmer temperatures and increased rainfall can create more favorable conditions for the transmission of the disease. Warmer temperatures can also allow mosquitoes to breed more rapidly, potentially increasing the number of vectors that transmit the disease.
+	2.  *West Nile virus:* Climate change could potentially increase the distribution of West Nile virus, as warmer temperatures can allow the virus to replicate more quickly in the bodies of infected birds, and can also increase the number of mosquitoes that carry the virus. In addition, climate change could lead to increased rainfall and flooding, which can create more standing water for mosquitoes to breed in.
+	3.  *Cholera:* Climate change could potentially increase the distribution of cholera, as warmer temperatures and increased rainfall can create more favorable conditions for the growth of the bacteria that cause the disease. In addition, climate change could lead to more extreme weather events, such as floods and hurricanes, which can contaminate water supplies and increase the risk of cholera transmission.
 6.  Define protist.
+	- A protist is a type of microorganism that belongs to the kingdom Protista. 
+	- Protists are eukaryotic, meaning that they have a nucleus and other membrane-bound organelles. 
+	- They are typically unicellular, although some protists are capable of forming colonies or complex multicellular structures.
+	- Protists are diverse and varied in their characteristics and behaviors, and they are found in a wide range of environments, including fresh water, marine environments, and soil. 
+	- Protists can be classified into several different groups, including algae, amoebas, and ciliates.
 7.  Explain how protozoa can be beneficial and harmful.
+	- Some protozoa are beneficial because they play important roles in the environment and in the ecosystems they inhabit. 
+		- For example, some protozoa are decomposers, which means that they break down dead plant and animal material and recycle nutrients back into the soil. This helps to maintain the health and productivity of the ecosystem.
+	- Other protozoa are beneficial because they provide food for other organisms. 
+		- For example, many protozoa are an important food source for animals, such as fish and invertebrates, which in turn provide food for other animals higher up in the food chain.
+	- Some protozoa are parasites, which means that they live in or on other organisms and derive their nutrition from them. 
+		- This can cause harm to the host organism, resulting in symptoms such as illness, tissue damage, and reduced growth and productivity.
 8.  Describe the protozoan that causes malaria. Explain how it is transmitted and why it is a major concern globally?
+	- The protozoan that causes malaria is called Plasmodium. It is a parasite that is transmitted to humans through the bite of an infected mosquito. When a mosquito carrying the parasite bites a person, the parasite enters the person's bloodstream and begins to multiply. This can cause symptoms such as fever, headache, and muscle pain. If left untreated, malaria can be severe and even fatal.
+	- Malaria is a major concern globally because it is a widespread and potentially deadly disease. It is estimated that there are more than 200 million cases of malaria each year, and that it causes more than 400,000 deaths, primarily in Africa. The disease is particularly prevalent in tropical and subtropical regions, where the warm climate and high levels of rainfall create ideal conditions for the transmission of the parasite.
 9.  Appreciate the diversity (and beauty) of fungi. (not a learning objective you can use as a study question.....)
 10.  Compare nutrient absorption in humans and fungi (i.e. how are they similar?).
+	- both are heterotrophic organisms (unable to produce food)
+	- fungi have hyphae (long, thin, branching filaments) that have tiny pores called septa, which are then used to absorb nutrients in the environment
+	- fungus uses enzymes to break down nutrients to be absorbed by the fungus' cells
 11.  Explain how humans contract blastomycosis and how it causes health issues.
+	- contract blastomycosis by inhaling a fungus called Blastomyces dermatitis
+	- fungus is found in soil and decaying wood
+	- can lead to severe illness or death as fungus grows and multiplies
 
-**Week 13**:
+**Week 13 (working on cheatsheet)**:
 1.  Define biotechnology, molecular biotechnology, and _in vitro_.
+	- Biotechnology is a field of science that involves the use of living organisms or their products to develop or improve products or processes
+		- ex. applications include improvements to medicine, agriculture, and envirionment management
+	- Molecular biotechnology is a field in biotechnology that involves molecular techniques and technologies to manipulate biological systems.
+		- ex. genetic engineering, genomics, to study and modify functions of genes and proteins
+	- In vitro is a term that refers to biological processes or experiments that are performed outside of a living organism.
+		- experiments carryied out in a lab setting, using artificial conditions to simulate an environment inside a living organism.
+		- allows researchers to study and observe cells, tissues, and other biological materials in a controlled setting
 2.  List examples in which humans harness the metabolic processes of other organisms to improve food.
+	- *Fermentation:* Fermentation is a process in which microorganisms, such as bacteria and yeast, convert carbohydrates into alcohol or organic acids. This process is used to produce a wide range of foods and beverages, including bread, beer, cheese, and yogurt.
+	- *Enzyme production:* Many food products, such as bread, cheese, and juice, are made using enzymes that are produced by microorganisms. These enzymes are used to improve the texture, flavor, and nutritional content of the food.
+	- *Biopreservation:* Microorganisms, such as lactic acid bacteria, can be used to preserve food by producing antimicrobial compounds that inhibit the growth of other microorganisms. This can help to extend the shelf life of foods and prevent foodborne illness.
+	- *Bioremediation:* Microorganisms can be used to remove contaminants from food and water, improving their quality and safety. For example, bacteria and fungi can be used to break down pesticides and other pollutants in soil and water, making them safe for use in agriculture.
 3.  Define bioinformatics and describe how the use of computers greatly contributes to our knowledge of the biological world.
 4.  Define polymerase chain reaction, thermocycler, and oligonucleotide primers.
+	- PCR is for amplifying a target DNA sequence. The process includes denaturation, annealing, and extension.
+		1. *Denaturation:*
+			- DNA strands are separated by heating up mixture to a high enough temperature.
+		2. *Annealing:*
+			- short pieces of DNA called olignucleotide primers are added to mixture
+			- primers help initiate the synthesis of new DNA strands
+		3. *Extension:*
+			- DNA polymerase enzyme added to the mixture, and it uses the oligonucleotide primers to synthesize new DNA strands.
+		4. Process is repeated multiple times.
+			- process repeated multiple times to amplify target DNA sequence.
+	- *Thermocycler:*
+		- machine that automates the PCR process
+		- has cooling and heating elements to control and ensure mixture is at an accurate temperature
+	- *Olignonucleotide primers:*
+		- short pieces of DNA used to initiate synthesis new DNA strands.
 5.  Describe the process of PCR.
+	1. *Denaturation:*
+		- DNA strands are separated by heating up mixture to a high enough temperature.
+	2. *Annealing:*
+		- short pieces of DNA called olignucleotide primers are added to mixture
+		- primers help initiate the synthesis of new DNA strands
+	3. *Extension:*
+		- DNA polymerase enzyme added to the mixture, and it uses the oligonucleotide primers to synthesize new DNA strands.
+	1. Process is repeated multiple times.
+		- process repeated multiple times to amplify target DNA sequence.
 6.  Describe how plasmids can be used in creating recombinant DNA.
+	- Plasmids are small, circular pieces of DNA that are found in bacteria and other microorganisms. They are separate from the bacterial chromosome, and they can replicate independently of the bacterial genome. 
+	- Plasmids are often used in creating recombinant DNA because they can be easily isolated from bacterial cells, and they can be readily manipulated and introduced into other bacterial cells.
+	- To create recombinant DNA using plasmids, the first step is to isolate the plasmid DNA from bacterial cells. This is typically done using a technique called plasmid isolation, which involves breaking open the bacterial cells and separating the plasmid DNA from the bacterial genome.
+	- Once the plasmid DNA has been isolated, it can be manipulated using a variety of techniques, such as restriction enzyme digestion and ligation. These techniques allow researchers to cut the plasmid DNA at specific locations, remove or insert DNA sequences, and join the resulting DNA fragments together to create a new, recombinant plasmid.
+	- The final step in creating recombinant DNA using plasmids is to introduce the recombinant plasmid into bacterial cells. This is typically done using a technique called transformation, in which the recombinant plasmid is introduced into bacterial cells using an electric current or chemical agents. The bacterial cells then take up the plasmid DNA and incorporate it into their own genome, allowing the recombinant DNA to be expressed and studied.
 7.  Define the following: functional genomics, proteomics, proteome, transcriptomics, and transcriptome.
-8.  Explain to a family member or friend the different ways in which foreign DNA is introduced into plant cells.
+	- Functional genomics is the study of the functions and interactions of genes and their products. This can include the identification and characterization of genes, the analysis of gene expression patterns, and the study of the functions of proteins and other gene products.
+	- Proteomics is the study of the complete set of proteins that are expressed by an organism, tissue, or cell. 
+	- The proteome is the complete set of proteins that are expressed by an organism, tissue, or cell at a given time.
+	- Transcriptomics is the study of the complete set of RNA molecules that are produced by an organism, tissue, or cell.
+	- The transcriptome is the complete set of RNA molecules that are produced by an organism, tissue, or cell at a given time.
+8.  Explain different ways in which foreign DNA is introduced into plant cells.
+	1.  *Agrobacterium-mediated transformation:* Agrobacterium is a type of bacteria that can transfer DNA from its own genome into the genome of plant cells. This process is called Agrobacterium-mediated transformation, and it is widely used to introduce foreign DNA into plant cells. The foreign DNA is typically inserted into a plasmid, which is then introduced into the Agrobacterium. The Agrobacterium is then used to transfer the plasmid DNA into the plant cells, where it is incorporated into the plant genome.
+	2.  *Particle bombardment:* Particle bombardment, also known as biolistics, involves using a device to physically shoot tiny particles coated with DNA into plant cells. The particles are fired at high speed into the plant tissue, where they penetrate the cell walls and deliver the DNA into the cells. This method is often used to introduce foreign DNA into plant cells that are difficult to transform using other methods.
+	3.  *Electroporation:* Electroporation involves using an electric current to create temporary holes in the cell membrane, allowing foreign DNA to enter the cell. The plant tissue is placed in a solution containing the DNA, and then an electric current is applied to the tissue. The electric current creates holes in the cell membrane, allowing the DNA to enter the cells.
+	4.  *Microinjection:* Microinjection involves using a fine needle to inject foreign DNA directly into individual plant cells. The needle is inserted into the cell, and the DNA is injected into the cytoplasm or nucleus. This method allows precise control over which cells receive the foreign DNA, but it is labor-intensive and time-consuming.
 9.  Explain tissue culture and discuss why parenchyma is usually the tissue type that is used to initiate plant tissue cultures.
 10.  Explain how an entirely new plant is generated from a piece of stem or an isolated plant cell.
 11.  Summarize alternative ways to generate new plants.
-12.  Explain why culturing of plant cell must be done in aseptic conditions.
-13.  Describe some of the applications of tissue culture.
+	- *Sexual production:*
+		- fusion of male and female gametes (reproductive cell)
+		- ex. pollen and ovules produce a zygote -> embryo -> new plant
+	- Asexual production:
+		- reproduction without gametes or fertilization
+		- ex. vegetative reproduction (plants produced from vegetative organs such as roots, stems, or leaves).
+		- allow plants to reproduce quickly and efficiently.
+12. Explain why culturing of plant cell must be done in aseptic conditions.
+	- self explanatory? (aseptic means contaminated)
+13. Describe some of the applications of tissue culture.
+	- production of genetically modified plants.
+	- production of plant-derived products.
 14.  Explain how _Agrobacterium_ introduces DNA into a plant.
+	1.  The first step is the uptake of Agrobacterium by the plant cells. This typically occurs through natural channels, such as wounds or abrasions, where the plant tissue is exposed to the bacteria. The Agrobacterium then colonizes the plant tissue and begins to multiply.
+	2.  The next step is the transfer of DNA from the Agrobacterium to the plant cells. This occurs through a specialized DNA transfer system called the T-complex. The T-complex is a large, multiprotein structure that is composed of proteins encoded by the Agrobacterium's Ti (tumor-inducing) plasmid. The Ti plasmid carries the DNA that will be transferred to the plant cells.
+	3.  Once the T-complex has been assembled, it is transported to the plant cell surface, where it comes into contact with the plant cell membrane. The T-complex then forms a channel through the plant cell membrane, allowing the Ti plasmid DNA to enter the plant cell.
+	4.  Once the Ti plasmid DNA has entered the plant cell, it is integrated into the plant genome by a process called homologous recombination. This involves the insertion of the Ti plasmid DNA into a specific site in the plant genome, where it becomes stably integrated and expressed.
 15.  Explain how _Agrobacterium_ is used as a vector by humans to introduce foreign DNA into plants.
+	- foreign DNA can be inserted into the Ti plasmid DNA of *Agrobacterium* (Agrobacterium-mediated transformation)
+		- typically through particle bombardment or electroporation
+	- Agrobacterium is introduced to natural channels (wounds or abrasions) of plant
+	- Agrobacterium assembles T-complex to transfer Ti plasmid to plant
+	- Once T-complex is assembled, it is transported to the plant cell surface, where it comes into contact with the plant cell membrane.
+	- The T-complex then forms a channel through the plant cell membrane, allowing Ti plasmid DNA to enter plant cell
+	- When Ti plasmid DNA has entered the plant cell, it is integrated into the plant genome.
 16.  Describe methods, other than _Agrobacterium_, that are used to introduce foreign DNA into a plant.
-17.  Identify six plant species that have been genetically modified. Explain how the modification has improved each plant’s success as a crop.
+	- Particle bombardment and electroporation.
+17. Identify six plant species that have been genetically modified. Explain how the modification has improved each plant’s success as a crop **(add to cheatsheet)**.
+	1.  Corn: Corn has been genetically modified to express genes that provide resistance to pests and diseases, such as the corn borer and corn earworm. 
+		- These modifications have improved the success of corn as a crop by reducing the need for chemical pesticides and increasing the yield of the crop.
+	2.  Soybeans: Soybeans have been genetically modified to express genes that provide resistance to herbicides, such as glyphosate. 
+		- This allows farmers to control weeds without damaging the soybeans, improving the success of the crop.
+	3.  Canola: Canola has been genetically modified to express genes that provide resistance to pests and diseases, such as the blackleg fungus. 
+		- These modifications have improved the success of canola as a crop by reducing the need for chemical pesticides and increasing the yield of the crop.
+	5.  Cotton: Cotton has been genetically modified to express genes that provide resistance to pests and diseases, such as the cotton bollworm. 
+		- These modifications have improved the success of cotton as a crop by reducing the need for chemical pesticides and increasing the yield of the crop.
+	7.  Papaya: Papaya has been genetically modified to express genes that provide resistance to a viral disease called papaya ringspot virus. 
+		- This has improved the success of papaya as a crop by reducing the impact of the disease and increasing the yield of the crop.
+	8.  Rice: Rice has been genetically modified to express genes that provide enhanced nutritional value, such as increased levels of beta-carotene. 
+		- This has improved the success of rice as a crop by providing a healthier and more nutritious food source for consumers.
 18.  Explain the meaning of “Round-up Ready”. Explain how Round-up Ready plants differ from the same species that are not genetically engineered.
-19.  _Bacillus thuringiensis_ is a bacterium. Explain its use in agriculture.
+	- Round-up Ready is a term used to describe plants that have been genetically modified to be resistant to the herbicide glyphosate, which is commonly known by the brand name Round-up. Glyphosate is a broad-spectrum herbicide that is effective against many different types of weeds, but it can also damage or kill non-target plants, including crops.
+	- Round-up Ready plants have been genetically modified to express genes that provide resistance to glyphosate. These genes typically come from bacteria that are naturally resistant to the herbicide, such as Agrobacterium or Pseudomonas. When the Round-up Ready plants are exposed to glyphosate, the herbicide is unable to kill or damage the plants, allowing them to continue to grow and develop.
+	- Round-up Ready plants differ from the same species that are not genetically modified in several ways. 
+		1. First, Round-up Ready plants are resistant to glyphosate, whereas non-modified plants are not. This allows Round-up Ready plants to be grown in areas where glyphosate is used for weed control, without damaging the crops. 
+		2. Second, Round-up Ready plants may express other traits or characteristics that are not found in non-modified plants, depending on the genes that were introduced during the genetic modification process.
+19. _Bacillus thuringiensis_ is a bacterium. Explain its use in agriculture.
 20.  Discuss the pros and cons of genetically engineered crops. Identify the most important issues surrounding this technology.
 
 ***
