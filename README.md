@@ -902,11 +902,11 @@ Remember this is essay format so in paragraph format with a title, introduction,
 		- This allows farmers to control weeds without damaging the soybeans, improving the success of the crop.
 	3.  Canola: Canola has been genetically modified to express genes that provide resistance to pests and diseases, such as the blackleg fungus. 
 		- These modifications have improved the success of canola as a crop by reducing the need for chemical pesticides and increasing the yield of the crop.
-	5.  Cotton: Cotton has been genetically modified to express genes that provide resistance to pests and diseases, such as the cotton bollworm. 
+	4.  Cotton: Cotton has been genetically modified to express genes that provide resistance to pests and diseases, such as the cotton bollworm. 
 		- These modifications have improved the success of cotton as a crop by reducing the need for chemical pesticides and increasing the yield of the crop.
-	7.  Papaya: Papaya has been genetically modified to express genes that provide resistance to a viral disease called papaya ringspot virus. 
+	5.  Papaya: Papaya has been genetically modified to express genes that provide resistance to a viral disease called papaya ringspot virus. 
 		- This has improved the success of papaya as a crop by reducing the impact of the disease and increasing the yield of the crop.
-	8.  Rice: Rice has been genetically modified to express genes that provide enhanced nutritional value, such as increased levels of beta-carotene. 
+	6.  Rice: Rice has been genetically modified to express genes that provide enhanced nutritional value, such as increased levels of beta-carotene. 
 		- This has improved the success of rice as a crop by providing a healthier and more nutritious food source for consumers.
 18.  Explain the meaning of “Round-up Ready”. Explain how Round-up Ready plants differ from the same species that are not genetically engineered.
 	- Round-up Ready is a term used to describe plants that have been genetically modified to be resistant to the herbicide glyphosate, which is commonly known by the brand name Round-up. Glyphosate is a broad-spectrum herbicide that is effective against many different types of weeds, but it can also damage or kill non-target plants, including crops.
@@ -915,7 +915,53 @@ Remember this is essay format so in paragraph format with a title, introduction,
 		1. First, Round-up Ready plants are resistant to glyphosate, whereas non-modified plants are not. This allows Round-up Ready plants to be grown in areas where glyphosate is used for weed control, without damaging the crops. 
 		2. Second, Round-up Ready plants may express other traits or characteristics that are not found in non-modified plants, depending on the genes that were introduced during the genetic modification process.
 19. _Bacillus thuringiensis_ is a bacterium. Explain its use in agriculture.
+	- Bacillus thuringiensis (Bt) is a bacterium that is commonly used in agriculture as a biological pesticide. Bt produces a protein called Cry that is toxic to certain insects, such as beetles, flies, and moths. When ingested by these insects, the Cry protein is activated and forms a pore in the insect's gut, causing the insect to become paralyzed and eventually die.
+	- Bt is used in agriculture to control pests that damage crops. This is typically done by applying Bt bacteria to the crops, either as a liquid spray or as a powder. The Bt bacteria are ingested by the pests, and the Cry protein is activated, killing the pests and protecting the crops. Bt is considered to be a safe and effective alternative to chemical pesticides, as it is harmless to humans, animals, and the environment, and it targets specific pests rather than killing a wide range of insects.
+	- In addition to its use as a biological pesticide, Bt is also used in the production of genetically modified crops. This involves introducing the Cry gene from Bt into the genome of the crop plant, using techniques such as Agrobacterium-mediated transformation. The genetically modified crops are then able to produce their own Cry protein, providing them with built-in pest resistance. This allows farmers to grow crops without the need for chemical pesticides, reducing their environmental impact and increasing their yield.
 20.  Discuss the pros and cons of genetically engineered crops. Identify the most important issues surrounding this technology.
+	- Pros:
+		- increased crop yield by increasing size or unmber of plant's fruits or seeds or by improving plant's ability to tolerate environment (such as droughts or pests).
+		- *enhanced nutritional value:*
+			- GM crops can produce enhanced nutritional value (such as increased levels of vitamins or minerals).
+		- *pest and disease resistance:*
+			- GM crops can express genes that provide resistance to pests and diseases, reducing need for pesticides.
+			- reduces environmental impact of agriculture and improve sustainability of crops.
+	- Cons:
+		- *potential risks to human health:*
+			- concerns that GM crops have negative effects on human health either directly or indirectly.
+			- no current evidence to justify that GM crops can harm humans.
+		- *potential risks to environment:*
+			- ex. GM crops can interact with organisms in ecosystem in unforeseen ways (mass killing pests).
+			- GM crops can be invasive disrupting natural ecosystems.
+			- no current evident to justify that GM crops can harm environment.
+21. Explain the "immune response" of a bacterium to a bacteriophage.  Explain how this can be applied eukaryote systems.
+	- The immune response of a bacterium to a bacteriophage (also known as a phage) is a defense mechanism that prevents the phage from replicating inside the bacterium. When a phage infects a bacterium, it injects its own genetic material into the bacterium, using it to replicate and produce new phages. However, some bacteria have evolved mechanisms that can recognize the presence of phage DNA and prevent it from replicating.
+	- One such mechanism is called CRISPR-Cas (Clustered Regularly Interspaced Short Palindromic Repeats-CRISPR associated proteins), which is an adaptive immune system found in bacteria and archaea. CRISPR-Cas works by recognizing and remembering sequences of DNA from previous phage infections, and using this information to target and destroy incoming phage DNA. This prevents the phage from replicating and spreading inside the bacterium.
+		- The CRISPR-Cas system has been studied extensively and has been adapted for use in eukaryotic systems, such as plants, animals, and human cells. This has allowed researchers to use CRISPR-Cas to edit the genome of eukaryotic organisms, allowing them to modify specific genes or remove unwanted DNA. This has many potential applications, such as improving crop yields, curing genetic diseases, and developing new therapies.
+22. Compare and contrast CRISPR technology with transformation of plant tissues using _Agrobacterium_.
+	- both methods allow researchers to precisely target specific genes.
+		- allows researches to modify specific traits of a plant.
+			- ex. pest resistance.
+	- differences:
+		- the way foreign DNA is introduced:
+			- CRISPR uses a protein called Cas9, which can cutoff DNA at specific locations.
+			- Agrobacterium-mediated transformation involves transferring small piece of DNA (T-DNA) from Agrobacterium into the plant cells, which is then integrated into plant genome.
+		- efficiency:
+			- CRISPR is highly efficient and specific with low levels of off-target effects
+				- can be used to make precise changes to plant genome with minmal unintended consequences.
+			- Agrobacterium-mediated transformation is less efficient and specific with higher levels of unintended consequences.
+				- may result in unintended changes to plant genome, and can have negative effects on plant's traits.
+23.  Describe the role of a plant in the development of treatments for COVID-19.
+	- CRISPR was used for gene editing in crops which led to the same logic being applied for covid testing kit.
+24. Discuss the benefits and potential drawbacks of Golden Rice.
+	- Golden rice is a genetically modified type of rice that has been engineered to produce beta-carotene, a precursor to vitamin A. 
+	- *Benefits:*
+		- The primary benefit of golden rice is that it has the potential to address vitamin A deficiency (through beta-carotene - which allows the body to convert beta-carotene into Vitamin A, depending on how much is needed), a condition that affects millions of people worldwide and can cause serious health problems, including blindness.
+		- By providing a source of vitamin A, golden rice could potentially improve the health and well-being of people who rely on rice as a staple food.
+	- *Drawbacks:*
+		- One potential drawback of golden rice is that it is genetically modified, which has raised concerns among some people about the safety of consuming genetically modified foods.
+		- not yet widely available, and there are logistical and financial challenges associated with its production and distribution.
+		- concerns that the introduction of golden rice could disrupt local agricultural systems and negatively impact small-scale farmers.
 
 ***
 ### Final Exam Essays
