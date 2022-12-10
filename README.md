@@ -29,7 +29,7 @@ Remember this is essay format so in paragraph format with a title, introduction,
 3.  **Climate Change in the Boreal Forest: The Boreal forest (northern Canada) is predicted to be the biome that will experience  the largest temperature increase in the world. This short reading that will help you with your essay: [link Links to an external site.](https://daily.jstor.org/climate-changes-dangerous-effects-on-the-boreal-forest/).   
     The foodweb below represents interactions of a community in the Boreal Forest.  Predict the ecological consequences of global climate change within this community.  Include in your essay a description of the trophic relationships and how they will change due to climate change. Identify apex predator(s), keystone species, one r-strategist, and one k-strategist (explain why you have selected these organisms).  
     _Note:_ if this essay is selected the foodweb will be included.**
-    ![diagram](Pasted image 20221201171651.png)
+    ![diagram](diagram.png)
 
 ***
 ### Important Learning Objectives pre-Midterm
